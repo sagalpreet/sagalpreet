@@ -1,18 +1,73 @@
-<!--
-**sagalpreet/sagalpreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" height=200 width=200 align="left">
 
-Here are some ideas to get you started:
+<img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/giphy.gif" height="150" align="right">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hello World! This is Sagalpreet Singh
+```A Computer Scientist and Engineer Under Construction```
 
-<img src="https://media.giphy.com/media/42tS2cfBtj8Y/giphy.gif" height=200 width=200>
-[![Anurag's GitHub stats](https://github-readme-stats-sagalpreet.vercel.app/api?username=anuraghazra)](https://github.com/sagalpreet/github-readme-stats)
 
+- 🌱 I’m currently exploring the field of Reinforcement Learning and Web Development.
+- 👯 I’m ever ready to collaborate on interestng project ideas.
+- ⚡ Spending more time thinking will lead to less time typing it.
+
+<hr>
+
+***Computer Science is no more about computers than astronomy is about telescopes. -Edsger W. Dijkstra***
+
+<hr>
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+# Author: the almighty
+
+class sagalpreet:
+    def __init__(self):
+        
+        # about
+        self.__name = "Sagalpreet Singh"
+        self.__role = "student"
+        self.__blood = "punjabi"
+        self.__interests = ["competitive programming", "machine learning", "mathematics", "web development"]
+        self.__education = {
+                              'degree':  'B.Tech',
+                              'major' :  'CSE',
+                              'college': 'IIT Ropar'
+                           }
+        
+        # skills
+        self.__knowsLang = [
+                              ("python", "c++", "c", "javascript", "java", "perl"),
+                              ("html", "css"),
+                              ("risc-v assembly language", "verilog")
+                           ]
+        self.__knowsTool = [
+                              ("numpy", "matplotlib", "tkinter", "networkx", "pandas"),
+                              ("git", "bash", "jupyter notebook", "linux"),
+                              ("arduino")
+                           ]
+                          
+    def __del__(self):
+        while (True):
+          pass        
+
+me = sagalpreet()
+```
+<hr>
+
+<img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" align="left">
+
+<p align="center">
+ <a href="https://sagalpreet.github.io/portfolio" >
+ <img src="https://img.shields.io/badge/-Visit_my_Website-0697AE?style=flat-square&logo=appveyor&logoColor=white&link=https://sagalpreet.github.io/portfolio"></img>
+ </a>
+ <a href="mailto:sagalpreetsingh60@gmail.com">
+ <img src="https://img.shields.io/badge/-Contact_Me-BC4E48?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sagalpreetsingh60@gmail.com" />
+ </a>
+ <a href="https://www.linkedin.com/in/sagalpreet/">
+ <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagalpreet/"  />
+ </a>
+ <a href="http://github.com/sagalpreet">
+ <img src="https://img.shields.io/github/followers/sagalpreet?label=follow&style=social" />
+ </a> 
+</p>
