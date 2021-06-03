@@ -56,8 +56,8 @@ me = sagalpreet()
 ```
 <hr>
 
-<img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea&count_private=true" align="left" height="195">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=Jupyter Notebook&layout=compact&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" height="195">
+<img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea&count_private=true" align="left" height="190">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=Jupyter Notebook&layout=compact&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" height="190">
     
 <hr>
 
