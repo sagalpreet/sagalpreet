@@ -56,6 +56,7 @@ me = sagalpreet()
 <hr>
 
 <img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" align="left">
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=TeX&layout=compact)
 
 <p align="center">
  <a href="https://sagalpreet.github.io/portfolio" >
