@@ -5,10 +5,11 @@
 ## Hello World! This is Sagalpreet Singh
 ```A Computer Scientist and Engineer Under Construction```
 
-
 - 🌱 I’m currently exploring the field of Reinforcement Learning and Web Development.
 - 👯 I’m ever ready to collaborate on interestng project ideas.
 - ⚡ Spending more time thinking will lead to less time typing it.
+
+<!--<img src="https://profile-counter.glitch.me/sagalpreet/count.svg">-->
 
 <hr>
 
@@ -55,8 +56,10 @@ me = sagalpreet()
 ```
 <hr>
 
-<img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=TeX&layout=compact)
+<img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea&count_private=true" align="left" height="190">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=Jupyter Notebook&layout=compact&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" height="190">
+
+<hr>
 
 <p align="center">
  <a href="https://sagalpreet.github.io/portfolio" >
@@ -71,4 +74,7 @@ me = sagalpreet()
  <a href="http://github.com/sagalpreet">
  <img src="https://img.shields.io/github/followers/sagalpreet?label=follow&style=social" />
  </a> 
+  <a href="https://drive.google.com/file/d/1WK9A-OgYkVuLrdEAaF_EoBro7A70--j5/view">
+ <img src="https://img.shields.io/badge/-Resume-silver?style=flat-square&logo=appveyor" />
+ </a>
 </p>
