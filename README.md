@@ -64,7 +64,7 @@ me = sagalpreet()
 <hr>
 
 <p align="center">
- <a href="https://drive.google.com/file/d/1WK9A-OgYkVuLrdEAaF_EoBro7A70--j5/view">
+ <a href="https://drive.google.com/file/d/14YKH8mbfY3H2kkbK2rImHjZwbBcbdUTl/view?usp=sharing">
  <img src="https://img.shields.io/badge/-Resume-silver?style=flat-square&logo=appveyor" />
  </a>
  <a href="https://sagalpreet.github.io/portfolio" >
