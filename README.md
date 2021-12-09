@@ -44,6 +44,7 @@ class sagalpreet:
                            ]
         self.__knowsTool = [
                               ("numpy", "matplotlib", "tkinter", "networkx", "pandas"),
+                              ("postgresql", "PLPGSQL"),
                               ("git", "bash", "jupyter notebook", "linux"),
                               ("arduino")
                            ]
