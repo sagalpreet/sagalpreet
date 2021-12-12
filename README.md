@@ -28,8 +28,7 @@ class sagalpreet:
         # about
         self.__name = "Sagalpreet Singh"
         self.__role = "student"
-        self.__blood = "punjabi"
-        self.__interests = ["competitive programming", "machine learning", "mathematics", "web development"]
+        self.__interests = ["competitive programming", "machine learning", "mathematics", "research", "software development"]
         self.__education = {
                               'degree':  'B.Tech',
                               'major' :  'CSE',
