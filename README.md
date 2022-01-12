@@ -1,6 +1,6 @@
-<img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" height=200 width=200 align="left">
+<!-- <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" height=200 width=200 align="left"> -->
 
-<img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/giphy.gif" height="150" align="right">
+<!-- <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/giphy.gif" height="150" align="right"> -->
 
 ## Hello World!  This is Sagalpreet Singh
 ```A Computer Scientist and Engineer Under Construction```
@@ -13,11 +13,11 @@
 
 <hr>
 
-***"Computer Science is no more about computers than astronomy is about telescopes"***
+<!-- ***"Computer Science is no more about computers than astronomy is about telescopes"*** -->
 
-*Edsger W. Dijkstra*
+<!-- *Edsger W. Dijkstra* -->
 
-<hr>
+<!-- <hr> -->
 
 ```python
 #!/usr/bin/python
@@ -58,10 +58,10 @@ me = sagalpreet()
 ```
 <hr>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea&count_private=true" height="150"></code>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=Jupyter Notebook&layout=compact&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" height="150"></code>
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea&count_private=true" height="150"></code> -->
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=Jupyter Notebook&layout=compact&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" height="150"></code> -->
     
 <hr>
 
