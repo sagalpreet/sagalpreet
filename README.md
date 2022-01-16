@@ -1,67 +1,17 @@
-<!-- <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif" height=200 width=200 align="left"> -->
+<img src = "https://github.com/sagalpreet/sagalpreet/blob/main/assets/cover.jpeg">
 
-<!-- <img src="https://media.giphy.com/media/mDLek2Pl1Q9PwH0dXd/giphy.gif" height="150" align="right"> -->
-
-## Hello World!  This is Sagalpreet Singh
-```A Computer Scientist and Engineer Under Construction```
-
-- 🌱 I’m currently exploring the field of Reinforcement Learning and Web Development.
-- 👯 I’m ever ready to collaborate on interestng project ideas.
-- ⚡ Spending more time thinking will lead to less time typing it.
-
-<!--<img src="https://profile-counter.glitch.me/sagalpreet/count.svg">-->
-
-<hr>
-
-<!-- ***"Computer Science is no more about computers than astronomy is about telescopes"*** -->
-
-<!-- *Edsger W. Dijkstra* -->
-
-<!-- <hr> -->
+<img align="right" src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea&count_private=true" height="150">
+<!-- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=Jupyter Notebook&layout=compact&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" height="150"> -->
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-# Author: the almighty
-
-class sagalpreet:
-    def __init__(self):
-        
-        # about
-        self.__name = "Sagalpreet Singh"
-        self.__role = "student"
-        self.__interests = ["competitive programming", "machine learning", "mathematics", "research", "software development"]
-        self.__education = {
-                              'degree':  'B.Tech',
-                              'major' :  'CSE',
-                              'college': 'IIT Ropar'
-                           }
-        
-        # skills
-        self.__knowsLang = [
-                              ("python", "c++", "c", "javascript", "java", "perl"),
-                              ("html", "css"),
-                              ("risc-v assembly language", "verilog")
-                           ]
-        self.__knowsTool = [
-                              ("numpy", "matplotlib", "tkinter", "networkx", "pandas"),
-                              ("postgresql", "PLPGSQL"),
-                              ("git", "bash", "jupyter notebook", "linux"),
-                              ("arduino")
-                           ]
-                          
-    def __del__(self):
-        while (True):
-          pass        
-
-me = sagalpreet()
+sagalpreet = {
+    code: [Python, C, CPP, Javascript, Java, Dart, Perl],
+    interests: ['maths', 'ai', 'dev', 'cp'],
+    talks_about: ['anything', 'everything'],
+    education: {'btech': ['IIT Ropar', 'CS(AI)']}
+}
+# cv exists for a reason xD
 ```
-<hr>
-
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea&count_private=true" height="150"></code> -->
-<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<code><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=Jupyter Notebook&layout=compact&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" height="150"></code> -->
     
 <hr>
 
@@ -80,5 +30,8 @@ me = sagalpreet()
  </a>
  <a href="http://github.com/sagalpreet">
  <img src="https://img.shields.io/github/followers/sagalpreet?label=follow&style=social" />
+ </a>
+ <a href="https://twitter.com/isagalpreet">
+ <img src="https://img.shields.io/twitter/follow/isagalpreet?style=social" />
  </a> 
 </p>
