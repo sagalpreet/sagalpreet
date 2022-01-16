@@ -1,6 +1,6 @@
 <img width=100% src = "https://github.com/sagalpreet/sagalpreet/blob/main/assets/cover.jpg">
 
-<img align="right" src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea&count_private=true" height="150">
+<img align="right" src="https://github-readme-stats-sagalpreet.vercel.app/api?username=sagalpreet&show_icons=true&theme=dracula&bg_color=35281e&text_color=fff6ea&count_private=true" height="159">
 <!-- <img align="right"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagalpreet&hide=Jupyter Notebook&layout=compact&show_icons=true&theme=dracula&bg_color=2D2D2D&text_color=fff6ea" height="150"> -->
 
 ```python
