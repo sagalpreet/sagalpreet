@@ -10,7 +10,7 @@ sagalpreet = {
     talks_about: ['anything', 'everything'],
     education: {'btech': ['IIT Ropar', 'CS(AI)']}
 }
-# cv exists for a reason xD
+# resume exists for a reason xD
 ```
     
 <hr>
