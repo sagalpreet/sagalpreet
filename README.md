@@ -5,7 +5,7 @@
 
 ```python
 sagalpreet = {
-    code: [Python, C, CPP, Javascript, Java, Dart, Perl],
+    code: [Python, C, CPP, Java],
     interests: ['maths', 'ai', 'dev', 'cp'],
     talks_about: ['anything', 'everything'],
     education: {'btech': ['IIT Ropar', 'CS(AI)']}
