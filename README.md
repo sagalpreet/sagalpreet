@@ -16,9 +16,9 @@ sagalpreet = {
 <hr>
 
 <p align="center">
- <a href="https://drive.google.com/file/d/14YKH8mbfY3H2kkbK2rImHjZwbBcbdUTl/view?usp=sharing">
+<!--  <a href="https://drive.google.com/file/d/14YKH8mbfY3H2kkbK2rImHjZwbBcbdUTl/view?usp=sharing">
  <img src="https://img.shields.io/badge/-Resume-silver?style=flat-square&logo=appveyor" />
- </a>
+ </a> -->
  <a href="https://sagalpreet.github.io" >
  <img src="https://img.shields.io/badge/-Visit_my_Website-0697AE?style=flat-square&logo=appveyor&logoColor=white&link=https://sagalpreet.github.io/portfolio">
  </a>
